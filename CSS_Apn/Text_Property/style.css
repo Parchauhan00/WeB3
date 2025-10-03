@@ -1,0 +1,26 @@
+p {
+    text-align: start
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: rgb(148, 160, 160);
+}
+#hd1{
+font-weight: normal;
+font-family: 'Times New Roman', Times, serif;
+}
+#hd2{
+    font-weight: bold;
+}
+#hd3{
+    font-weight: 100;
+}
+#one{
+    font-family: Arial, Helvetica, sans-serif;
+}

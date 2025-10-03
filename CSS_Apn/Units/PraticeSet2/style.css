@@ -1,0 +1,16 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: azure;
+}
+
+
+
+#hd1 {
+    text-align: center;
+    text-transform: capitalize;
+    color: blue;
+}
+#outer{
+    font-size: 0px;
+}
+
