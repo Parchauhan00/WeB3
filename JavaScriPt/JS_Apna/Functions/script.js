@@ -36,3 +36,13 @@ let count = 0;
  console.log("Vowels are :"+count)
 }
 vowelsCount("abc")
+//////Arrow function
+const CountVowel = (str) =>{
+    let count = 0;
+ for(const char of str) {
+    if(char === "a" || char==="i" || char==="e" || char==="o" || char==="u")
+    count++;
+ }
+ return count;
+}
+console.log(CountVowel("iampru"));
