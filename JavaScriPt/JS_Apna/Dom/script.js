@@ -17,3 +17,5 @@ console.dir(Firstelement);
 
 let allElements = document.querySelectorAll("p"); // return all matching elements
 console.dir(allElements);
+
+
