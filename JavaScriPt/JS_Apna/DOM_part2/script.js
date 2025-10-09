@@ -11,3 +11,6 @@ console.dir(div);
 
  let div2 = document.querySelector("div");
  div2.style;
+
+ div.style.backgroundColor = "green";
+ div.style.font
