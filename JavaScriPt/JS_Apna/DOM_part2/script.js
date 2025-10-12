@@ -26,5 +26,5 @@ console.dir(div);
  newheading.innerHTML = "<i>, I am new!</i>";
 
  document.querySelector("body").prepend(newheading);
- let para2 = document.querySelector("p");
- para2.remove()
+
+ 
